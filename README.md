@@ -16,6 +16,7 @@ This project created by [ETH Zurich](https://www.sri.inf.ethz.ch/), [INSAIT](htt
 
 > [!IMPORTANT]  
 > Before cloning the repository, make sure you have [git lfs](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage) (Large File Storage) extension installed.
+> Also, ensure you have `nvidia-container-toolkit` (or equivalent for your OS) installed on the host machine while using GPUs via docker.
 
 Clone the repository and fetch all the submodules:
 
