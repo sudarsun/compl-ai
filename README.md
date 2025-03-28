@@ -16,7 +16,7 @@ This project created by [ETH Zurich](https://www.sri.inf.ethz.ch/), [INSAIT](htt
 
 > [!IMPORTANT]  
 > Before cloning the repository, make sure you have [git lfs](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage) (Large File Storage) extension installed.
-> Also, ensure you have `nvidia-container-toolkit` (or equivalent for your OS) installed on the host machine while using GPUs via docker.
+> Also, ensure you have `nvidia-container-toolkit` (or equivalent for your OS) installed on the host machine while using GPUs via docker. Please follow the instructions given at https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html to complete the install.
 
 Clone the repository and fetch all the submodules:
 
